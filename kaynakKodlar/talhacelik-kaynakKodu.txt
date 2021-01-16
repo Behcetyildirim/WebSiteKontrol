@@ -1,0 +1,557 @@
+<!DOCTYPEhtml>
+<!--[ifIE9]><htmlclass="no-jsie9"lang="en-US"><![endif]-->
+<!--[ifgtIE9]><!--><htmlclass="no-js"lang="en-US"><!--<![endif]-->
+
+<head>
+<metacharset="UTF-8">
+<metaname="viewport"content="width=device-width,initial-scale=1">
+<linkrel="profile"href="http://gmpg.org/xfn/11">
+
+	<title>TalhaÇelik&#8211;ComputerEngineer</title>
+<linkrel='dns-prefetch'href='//s.w.org'/>
+<linkrel="alternate"type="application/rss+xml"title="TalhaÇelik&raquo;Feed"href="http://talhacelik.com.tr/index.php/feed/"/>
+<linkrel="alternate"type="application/rss+xml"title="TalhaÇelik&raquo;CommentsFeed"href="http://talhacelik.com.tr/index.php/comments/feed/"/>
+		<scripttype="text/javascript">
+			window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/talhacelik.com.tr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){functiond(a,b){varc=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);vard=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);vare=k.toDataURL();returnd===e}functione(a){varb;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="60032pxArial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":returnb=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}functionf(a){varc=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}varg,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<styletype="text/css">
+img.wp-smiley,
+img.emoji{
+	display:inline!important;
+	border:none!important;
+	box-shadow:none!important;
+	height:1em!important;
+	width:1em!important;
+	margin:0.07em!important;
+	vertical-align:-0.1em!important;
+	background:none!important;
+	padding:0!important;
+}
+</style>
+<linkrel='stylesheet'id='WRT-style-css'href='http://talhacelik.com.tr/wp-content/themes/writee/style.css?ver=4.9.3'type='text/css'media='all'/>
+<linkrel='stylesheet'id='WRT-main-style-css'href='http://talhacelik.com.tr/wp-content/themes/writee/assets/css/style-ltr.css?ver=4.9.3'type='text/css'media='all'/>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<linkrel='https://api.w.org/'href='http://talhacelik.com.tr/index.php/wp-json/'/>
+<linkrel="EditURI"type="application/rsd+xml"title="RSD"href="http://talhacelik.com.tr/xmlrpc.php?rsd"/>
+<linkrel="wlwmanifest"type="application/wlwmanifest+xml"href="http://talhacelik.com.tr/wp-includes/wlwmanifest.xml"/>
+<metaname="generator"content="WordPress4.9.3"/>
+<styletype="text/css">html,body{font-size:14px;line-height:1.2;}.entry-contenta:not([class]),a:active,a:focus,a:hover{color:#bf9e3b}.social-navigation.theme-colors,
+		.comments-area.comments-list.comment.comment-meta.comment-header.comment-reply,
+		.entry.entry-header.entry-meta.entry-cat,
+		.entry.entry-quote-author,
+		.widget.widget_recent-post.entry-list.entry.entry-meta.entry-cat,
+		.widget.widget_popular-post.entry-list.entry.entry-meta.entry-cat,
+		.widget.widget_posts.entry-list.entry.entry-meta.entry-cat,
+		.widget.widget_recent_posts.entry.entry-meta.entry-cat,
+		.widget.widget_related_posts.entry.entry-meta.entry-cat,
+		.widget.widget_categoriesullia:hover,
+		.widget.widget_product_categoriesullia:hover,
+		.widget.widget_archiveullia:hover,
+		.widget.widget_archivesullia:hover,
+		.widget.widget_twitter.tweets-list.tweeta,
+		.widget.widget_recent_comments.recentcommentsspana{color:#bf9e3b}.widget.widget_categoriesullia:before,
+		.widget.widget_product_categoriesullia:before,
+		.widget.widget_archiveullia:before,
+		.widget.widget_archivesullia:before
+		.widget.widget_archivesullia:before{background-color:#bf9e3b}.widget.widget_tag_cloud.tagclouda:hover{
+			color:#bf9e3b;
+			border-color:#bf9e3b}.pace-running.pace{background-color:#ffffff;}
+	.pace-done.pace{background-color:transparent;}
+	.pace{
+	-webkit-pointer-events:none;
+	pointer-events:none;
+
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	user-select:none;
+
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	z-index:9999;
+
+	-webkit-transform:translate3d(0,-50px,0);
+	-ms-transform:translate3d(0,-50px,0);
+	transform:translate3d(0,-50px,0);
+
+	-webkit-transition:-webkit-transform.5sease-out;
+	-ms-transition:-webkit-transform.5sease-out;
+	transition:transform.5sease-out;
+	}
+
+	.pace.pace-active{
+	-webkit-transform:translate3d(0,0,0);
+	-ms-transform:translate3d(0,0,0);
+	transform:translate3d(0,0,0);
+	}
+
+	.pace.pace-progress{
+	display:block;
+	position:fixed;
+	z-index:2000;
+	top:0;
+	right:100%;
+	width:100%;
+	height:5px;
+	background:#bf9e3b;
+	pointer-events:none;
+	}
+</style><script>
+	varRTL=false;
+	</script><linkrel="icon"href="http://talhacelik.com.tr/wp-content/uploads/2018/01/cropped-favicon-32x32.gif"sizes="32x32"/>
+<linkrel="icon"href="http://talhacelik.com.tr/wp-content/uploads/2018/01/cropped-favicon-192x192.gif"sizes="192x192"/>
+<linkrel="apple-touch-icon-precomposed"href="http://talhacelik.com.tr/wp-content/uploads/2018/01/cropped-favicon-180x180.gif"/>
+<metaname="msapplication-TileImage"content="http://talhacelik.com.tr/wp-content/uploads/2018/01/cropped-favicon-270x270.gif"/>
+
+</head>
+<bodyid="site-body"class="homeblogwp-custom-logotheme-header4">
+<divclass="site-mobile-navigation"></div>
+<divclass="site-wrapper">
+
+		<headerid="site-header"class="site-header">
+		<divclass="site-header-top">
+			<divclass="site-container">
+				<divclass="site-row">
+					
+					<divclass="site-header-top-leftsite-column-9">
+					
+											</div>
+					
+					
+		<divclass="site-header-top-rightsite-column-3">
+			<navid="social-navigation"class="social-navigationdefault-colors"><ul><li><ahref="http://facebook.com/tlhcelik"target="_blank"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/tlhcelik"target="_blank"><spanclass="fafa-twitter"></span></a></li><li><ahref="http://instagram.com/tlh.celik"target="_blank"><spanclass="fafa-instagram"></span></a></li><li><ahref="http://linkedin.com/in/tlhcelik"target="_blank"><spanclass="fafa-linkedin"></span></a></li></ul></nav>
+		</div>				</div>
+			</div>
+		</div>
+		
+		<divclass="site-header-bottom">
+			<divclass="site-container">
+				<divclass="site-row">
+					<divclass="site-header-middle-center">
+						<divclass="site-brand">
+													<h1class="site-heading">							<ahref="http://talhacelik.com.tr/"rel="home">
+							TalhaÇelik							</a>
+							</h1>							
+												
+					
+													<pclass="site-tagline">ComputerEngineer</p>
+												
+						<ahref="http://talhacelik.com.tr/"class="mobile-navigation-toggle"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</header><!--/header-->	
+	<sectionclass="site-mainwith-right-sidebar">
+<divclass="site-container">
+<divclass="site-row">
+				<divclass="site-contentcompact-viewwith-sidebar"id="site-content"role="main">
+				
+<divclass="standard-container">
+	<articleid="entry-369"class="post-369posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-algorithmtag-cryptingentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/">MultipleFileCryptographer</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2020/04/">Thursday,April23,2020</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"class="entry-thumb"title="Permalinkto:&quot;MultipleFileCryptographer&quot;"><imgwidth="500"height="500"src="http://talhacelik.com.tr/wp-content/uploads/2020/04/icon.jpeg"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2020/04/icon.jpeg500w,http://talhacelik.com.tr/wp-content/uploads/2020/04/icon-150x150.jpeg150w,http://talhacelik.com.tr/wp-content/uploads/2020/04/icon-300x300.jpeg300w"sizes="(max-width:500px)100vw,500px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>Multiplefilecryptographercanbeforcecryptyourselectedfiles.Thisprogramhavetwocryptographyalgorithm.Firstalgorithmisfasterthansecondbecausefirstalgorithmeasyuseandaimtospeed.Soadditionallysecondalgorithmcalledby&#8216;forcecrypting&#8217;.Thismethodcryptallselectedfileandshuffleyourfilesandattheandofthe&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"title="MultipleFileCryptographer"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=Multiple%20File%20Cryptographer&#038;url=http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2020/04/icon.jpeg&#038;description=Multiple%20File%20Cryptographer','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-334"class="post-334posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-genelcategory-roottlhcelik-programmingtag-dashboardtag-flasktag-herokutag-opensourcetag-pythontag-trivelyanentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/genel/"rel="categorytag">Genel</a><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/">TrivelyanHerokuAppManagementDashboard</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2019/05/">Thursday,May16,2019</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"class="entry-thumb"title="Permalinkto:&quot;TrivelyanHerokuAppManagementDashboard&quot;"><imgwidth="400"height="400"src="http://talhacelik.com.tr/wp-content/uploads/2019/05/trivelyan-logo-e1558008450126.png"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>Trivelyanisawebbasedmanagementdashboard.WhilemaketransactionsintheHerokuApplicationsuchascreate,deleteorpushchangeswearesoofatigueforuseCLI.Thereforewearedevelopedthisapplication.TrivelyanmakebasicCLIcommandsinbackground.Thisapplicationuse python-flask forthesetransactions.Gototrivelyan.github.ioforrundockercontainer:docker&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"title="TrivelyanHerokuAppManagementDashboard"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=Trivelyan%20Heroku%20App%20Management%20Dashboard&#038;url=http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2019/05/trivelyan-logo-e1558008450126.png&#038;description=Trivelyan%20Heroku%20App%20Management%20Dashboard','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-303"class="post-303posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-ctag-mathtag-plotentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/">C++PlotLibrary(MPlotlib)withBitmap</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/07/">Wednesday,July4,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"class="entry-thumb"title="Permalinkto:&quot;C++PlotLibrary(MPlotlib)withBitmap&quot;"><imgwidth="504"height="322"src="http://talhacelik.com.tr/wp-content/uploads/2018/07/plotting.jpg"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/07/plotting.jpg504w,http://talhacelik.com.tr/wp-content/uploads/2018/07/plotting-300x192.jpg300w"sizes="(max-width:504px)100vw,504px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>OpensourceMPlotkütüphanesiC++programlamadilinikullanarakkolayvehızlıbirşekilde2boyutu grafik çizimiyapmayısağlar.Bukütüphanenindiğerkütüphanelerdenfarkıoluşturduğugrafikleribitmap üzerineçizmesidirvegörüntüdeherhangibirbozulmayaşanmadanyenidenboyutlandırmayapılabilir.Alternatifgrafikkütüphaneleridemevcuttur,bunlar:&nbsp;QwtPlPlot MathGL koolplotGNUPlot&nbsp;Örnek:#include&#8220;mplotlib.cpp&#8221;intmain()&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"title="C++PlotLibrary(MPlotlib)withBitmap"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=C++%20Plot%20Library%20(MPlotlib)%20with%20Bitmap&#038;url=http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/07/plotting.jpg&#038;description=C++%20Plot%20Library%20(MPlotlib)%20with%20Bitmap','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-195"class="post-195posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-linuxtag-mpitag-paralleltag-programmingentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/">MPIFunctions(MPI_Send&#038;MPI_Recv)</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/05/">Wednesday,May2,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"class="entry-thumb"title="Permalinkto:&quot;MPIFunctions(MPI_Send&#038;MPI_Recv)&quot;"><imgwidth="585"height="204"src="http://talhacelik.com.tr/wp-content/uploads/2018/04/MPIlogo2.gif"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>Paralelprogramlamadaprocesslerarasındaveri alış-verişioldukçaönemlidir.Seribirhaldeyazılmışkoduparalelolarakçalıştırabilirdurumagetirirkenhangiprocess’inhangiişinerede, nasılveneşekildeyapacağınıbelirlemekgerekmektedir.Tabiibuişlemörnektedeolduğugibimanuelolarakyapılmaktadır.Fakattüretilmişfonksiyonlardaverialış-verişiotomatikolarakyapılacaktır.MPIkütüphanesininentemelikifonksiyonuMPI_Send()&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"title="MPIFunctions(MPI_Send&#038;MPI_Recv)"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=MPI%20Functions%20(MPI_Send%20&#038;%20MPI_Recv)&#038;url=http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/04/MPIlogo2.gif&#038;description=MPI%20Functions%20(MPI_Send%20&#038;%20MPI_Recv)','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-188"class="post-188posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-programmingtag-scriptingtag-shelltag-windowsentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/">WindowsPowerShellScripting</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/04/">Thursday,April26,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"class="entry-thumb"title="Permalinkto:&quot;WindowsPowerShellScripting&quot;"><imgwidth="780"height="439"src="http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-780x439.jpg"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-780x439.jpg780w,http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-300x169.jpg300w,http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-768x432.jpg768w,http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-1024x576.jpg1024w,http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-1600x900.jpg1600w"sizes="(max-width:780px)100vw,780px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>PowerShellNedir?PowerShell,WindowsişletimsistemininWindows7ilegeliştirippiyasayasürdüğü,Unixtabanlıişletimisistemlerindebashyapısınabenzer,Cmdlet*lerileyönetilen.Netyazılımınıdestekleyenbirprogramlamadilidir.PowerShellsistemiçerisindepratikişlemleriyapmayısağlayan,geneldesistemyöneticileritarafındanoldukçarağbetgörenbirprogramlamadilidir.[*]PowerShell&#8217;insahipolduğukomularaverilenisim.PowerShellKullanımıWindows&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"title="WindowsPowerShellScripting"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=Windows%20PowerShell%20Scripting&#038;url=http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5.jpg&#038;description=Windows%20PowerShell%20Scripting','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-157"class="post-157posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-ctag-linuxtag-mpitag-parallelentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/04/18/mpi/">MPI(MessagePassingInterface)</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/04/">Wednesday,April18,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/04/18/mpi/"class="entry-thumb"title="Permalinkto:&quot;MPI(MessagePassingInterface)&quot;"><imgwidth="585"height="204"src="http://talhacelik.com.tr/wp-content/uploads/2018/04/MPIlogo2.gif"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>MPINedir?MPI(MessagePassingInterface) paralelprogramlamayapmakamacıilekullanılanCdilinitemelalanbirplatform,Cdilikütüphanesidir.MPIparalelprogramlamayagirişiçinöğreticivetemelolabilecekbirplatformdur.Paralelprogramlamagenelolarakbirdenfazlabilgisayarüzerindeaynıprogramındağıtık birşekildeişlenipverininalınmasınaverilenisimdir.Paralelprogramlamayapmanınamacıtamamen&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/04/18/mpi/"title="MPI(MessagePassingInterface)"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/04/18/mpi/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=MPI%20(Message%20Passing%20Interface)&#038;url=http://talhacelik.com.tr/index.php/2018/04/18/mpi/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/04/18/mpi/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/04/MPIlogo2.gif&#038;description=MPI%20(Message%20Passing%20Interface)','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/04/18/mpi/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/04/18/mpi/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-123"class="post-123posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-programmingtag-beautifulsouptag-mechanizetag-pythontag-urllibentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/">Python&#8217;daMechanizeveBeautifulSoupModülleri</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/01/">Saturday,January20,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/"class="entry-thumb"title="Permalinkto:&quot;Python&#8217;daMechanizeveBeautifulSoupModülleri&quot;"><imgwidth="434"height="299"src="http://talhacelik.com.tr/wp-content/uploads/2018/01/beatifulsoup.jpg"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/01/beatifulsoup.jpg434w,http://talhacelik.com.tr/wp-content/uploads/2018/01/beatifulsoup-300x207.jpg300w"sizes="(max-width:434px)100vw,434px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>Örnekolarakhazırlanmışpythonscriptindekikodlarıgörmedenöncekullanılankütüphanelerinneişeyaradığıhakkındakısacabilgiverelim.MechanizeKütüphanesiMechanizekütüphanesikısacagörselbirarayüzüolmayankodtarafındaçalışançokbasitbirtarayıcıyaratmanızısağlar.Mechanizekütüphanesikendiiçindebulunan&#8220;urllib2&#8221;kütüphanesinidedestekleyerekkullanır.Mechanize&#8217;ninbizeyaniprogramcıyasağladığıkolaylıklarıvebarındırdığıözelliklerisıralayacakolursak&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/"title="Python&#8217;daMechanizeveBeautifulSoupModülleri"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=Python&#8217;da%20Mechanize%20ve%20BeautifulSoup%20Modülleri&#038;url=http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/01/beatifulsoup.jpg&#038;description=Python&#8217;da%20Mechanize%20ve%20BeautifulSoup%20Modülleri','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/01/20/pythonda-mechanize-ve-beautifulsoup-modulleri/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-116"class="post-116posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-ctftag-ctftag-prodaftentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-ctf/"rel="categorytag">root@tlhcelik:~$/ctf</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/">DKHOSTCTF2018</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/01/">Wednesday,January10,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/"class="entry-thumb"title="Permalinkto:&quot;DKHOSTCTF2018&quot;"><imgwidth="780"height="260"src="http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2-780x260.jpg"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2-780x260.jpg780w,http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2-300x100.jpg300w,http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2-768x256.jpg768w,http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2-1024x341.jpg1024w,http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2.jpg1500w"sizes="(max-width:780px)100vw,780px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>BuyılProdafttarafındandüzenlenen&#8220;Dünya&#8217;yıKurtaranHacker&#8217;ınOğununSevgilisi&#8221;adlıCTFyarışmasına&#8220;BilgisayarınaFısıldayanAdamlar&#8221;ekibiolarakkatılımsağlıyoruz.&nbsp;&nbsp;10şubatgecesibaşlayacakolanyarışmayakatılantümyarışmacılaraşimdidenbaşarılardilerim.🙂DKHOSCTFSKORTABLOSU@ctfturkeyYapılanyarışmasonucundaekibimiz4000katılımcıarasındanTop20&#8217;yegirereksertifikaalmayıbaşarmıştır.</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/"title="DKHOSTCTF2018"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=DKHOST%20CTF%202018&#038;url=http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/01/dkhos-2.jpg&#038;description=DKHOST%20CTF%202018','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/01/10/dkhost-ctf-2018/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-82"class="post-82posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-cybertag-attacktag-burpsuitetag-injectiontag-vulnerabilitytag-xmlitag-xxeentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-cyber/"rel="categorytag">root@tlhcelik:~$/cyber</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/">XMLExternalEntity(XXE)andXMLInjection(XMLI)</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/01/">Monday,January8,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/"class="entry-thumb"title="Permalinkto:&quot;XMLExternalEntity(XXE)andXMLInjection(XMLI)&quot;"><imgwidth="728"height="239"src="http://talhacelik.com.tr/wp-content/uploads/2018/01/xml-header.png"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/01/xml-header.png728w,http://talhacelik.com.tr/wp-content/uploads/2018/01/xml-header-300x98.png300w"sizes="(max-width:728px)100vw,728px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>XMLNedir?ExtensibleMarkupLanguage(GenişletilebilirİşaretlemeDili,kısacaXML),heminsanlarhembilgiişlemsistemleritarafındankolaycaokunabilecekdokümanlaroluşturmayayarayanbirişaretlemedilidir.W3Ctarafındantanımlanmışbirstandarttır.Buözelliğiileverisaklamanınyanındafarklısistemlerarasındaverialışverişiyapmayayarayanbiraraformatgörevidegörür.SGML&#8217;inbasitleştirilmişbiraltkümesidir.[1]&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/"title="XMLExternalEntity(XXE)andXMLInjection(XMLI)"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=XML%20External%20Entity%20(XXE)%20and%20XML%20Injection%20(XMLI)&#038;url=http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/01/xml-header.png&#038;description=XML%20External%20Entity%20(XXE)%20and%20XML%20Injection%20(XMLI)','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/01/08/xml-external-entity-xxe-attacks/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article><articleid="entry-64"class="post-64posttype-poststatus-publishformat-standardhas-post-thumbnailhentrycategory-roottlhcelik-linuxcategory-roottlhcelik-programmingtag-ctag-cpptag-linuxtag-makefiletag-programmingentryentry-center"style="text-align:center;">
+	<divclass="entry-row">
+		<divclass="entry-full-center">
+				<divclass="entry-header">
+		<divclass="entry-meta">
+			<spanclass="entry-cat"><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-linux/"rel="categorytag">root@tlhcelik:~$/linux</a><ahref="http://talhacelik.com.tr/index.php/category/roottlhcelik-programming/"rel="categorytag">root@tlhcelik:~$/programming</a></span>
+		</div>
+		<h2class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/">MakefileNedir?</a></h2>		<divclass="entry-meta">
+			<spanclass="entry-author">By<ahref="http://talhacelik.com.tr/index.php/author/tlhcelik/"title="PostsbyTalhaÇelik"rel="author">TalhaÇelik</a></span>
+			<spanclass="entry-date">on<ahref="http://talhacelik.com.tr/index.php/2018/01/">Sunday,January7,2018</a></span>
+		</div>
+	</div><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/"class="entry-thumb"title="Permalinkto:&quot;MakefileNedir?&quot;"><imgwidth="780"height="585"src="http://talhacelik.com.tr/wp-content/uploads/2018/01/makefile-780x585.png"class="attachment-WRT-post-imagesize-WRT-post-imagewp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2018/01/makefile-780x585.png780w,http://talhacelik.com.tr/wp-content/uploads/2018/01/makefile-768x576.png768w"sizes="(max-width:780px)100vw,780px"/></a>
+				</div>			<divclass="entry-content">
+				
+				<p>CveC++dilleriileuğraşanlaryadaenazındanCveyaC++ileyazılmışbirprogramınkaynakkodlarınıedinipderlemeyeçalışanlarmakefiledosyasınıdiğerkaynakkodlararasındagörmüşlerdir.Makefilehazırlanmışolanprogramınkısacayenidenderlenmesineolanaksağlayarak,değişikliklerialgılayarakbufarklılıklarıüzerindederlemeişleminigerçekleştiriyor.Busayedeprogramınderlemeaşamasıdahakısasürmüşoluyorki&hellip;</p>
+				
+			</div>
+			
+	<divclass="entry-footer">
+				<divclass="entry-footer-top">
+			<ahref="http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/"title="MakefileNedir?"class="entry-button">Continue>></a>
+		</div>
+				<divclass="entry-footer-bottom">
+			<divclass="entry-share">
+				<ul><li><ahref="https://www.facebook.com/sharer/sharer.php?u=http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/"onclick="window.open(this.href,'facebook-share','width=580,height=296');returnfalse;"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/share?text=Makefile%20Nedir%20?&#038;url=http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/"onclick="window.open(this.href,'twitter-share','width=550,height=235');returnfalse;"><spanclass="fafa-twitter"></span></a></li><li><ahref="#"onclick="window.open('http://pinterest.com/pin/create/button/?url=http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/&#038;media=http://talhacelik.com.tr/wp-content/uploads/2018/01/makefile-e1515331704991.png&#038;description=Makefile%20Nedir%20?','pinterest-share','width=490,height=530');returnfalse;"><spanclass="fafa-pinterest-p"></span></a></li><li><ahref="https://plus.google.com/share?url=http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/"onclick="window.open(this.href,'google-plus-share','width=490,height=530');returnfalse;"><spanclass="fafa-google-plus"></span></a></li></ul>			</div>
+			<divclass="entry-comments">
+				<ahref="http://talhacelik.com.tr/index.php/2018/01/07/makefile-nedir/#respond"><spanclass="fafa-comment"></span>
+					<spanclass="comments-counting">0</span>
+				</a>
+			</div>
+		</div>
+	</div>		</div>
+	</div>
+</article></div>
+	<navclass="navigationpagination"role="navigation">
+		<h2class="screen-reader-text">Postsnavigation</h2>
+		<divclass="nav-links"><spanaria-current='page'class='page-numberscurrent'>1</span>
+<aclass='page-numbers'href='http://talhacelik.com.tr/index.php/page/2/'>2</a>
+<aclass="nextpage-numbers"href="http://talhacelik.com.tr/index.php/page/2/">Next&rarr;</a></div>
+	</nav>				</div>
+								<divclass="site-sidebar"id="sidebar"role="complementary">
+					<asideid="wrt_about-3"class="widgetwidget_wrt_about"><h6class="widget-title"><span>echo$ME</span></h6><divclass="author"><divclass="author-image"><imgsrc="http://talhacelik.com.tr/wp-content/uploads/2018/04/1080-1920-e1524490413139.png"alt="TalhaÇelik"></div>
+			<divclass="author-meta">
+				<h6class="author-name">TalhaÇelik</h6>
+				<pclass="author-desc"></p>
+			</div>
+		</div></aside><asideid="pages-3"class="widgetwidget_pages"><h6class="widget-title"><span>StaticPages</span></h6>		<ul>
+			<liclass="page_itempage-item-10"><ahref="http://talhacelik.com.tr/index.php/bio/">BIOGRAPHY</a></li>
+		</ul>
+		</aside><asideid="wrt_social-3"class="widgetwidget_wrt_social"><h6class="widget-title"><span>ln-s$ME/social</span></h6><navclass="social-navigationdefault-colors"><ul><li><ahref="http://facebook.com/tlhcelik"><spanclass="fafa-facebook"></span></a></li><li><ahref="http://twitter.com/tlhcelik"><spanclass="fafa-twitter"></span></a></li><li><ahref="http://instagram.com/tlh.celik"><spanclass="fafa-instagram"></span></a></li><li><ahref="http://github.com/tlhcelik"><spanclass="fafa-github"></span></a></li><li><ahref="https://hub.docker.com/u/tlhcelik"><spanclass="fafa-google-plus"></span></a></li><li><ahref="http://linkedin.com/in/tlhcelik"><spanclass="fafa-linkedin"></span></a></li><li><ahref="http://github.com/tlhcelik"><spanclass="fafa-youtube"></span></a></li><li><ahref="http://github.com/tlhcelik"><spanclass="fafa-pinterest-p"></span></a></li></ul></nav></aside><asideid="search-2"class="widgetwidget_search"><h6class="widget-title"><span>find/-name.*|grep&#8211;colorargv[0]</span></h6><formrole="search"method="get"id="searchform"class="search-form"action="http://talhacelik.com.tr/">
+	<labelclass="screen-reader-text"for="s">
+	Searchfor:	</label>
+	<inputtype="text"value=""placeholder="SearchForPosts"name="s"id="s"class="search-input"/>
+	<labelfor="searchsubmit"class="fafa-searchsearch-submit-icon"></label>
+	<inputtype="submit"id="searchsubmit"value="Submit"class="search-submit"/>
+</form></aside><asideid="wrt_recent_posts-3"class="widgetwidget_wrt_recent_posts"><h6class="widget-title"><span>OtherPosts</span></h6><divclass="entry-listentry-small-thumb"><articleclass="entry"><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"class="entry-thumb"title="Permalinkto:&quot;MultipleFileCryptographer&quot;"><imgwidth="150"height="150"src="http://talhacelik.com.tr/wp-content/uploads/2020/04/icon-150x150.jpeg"class="attachment-thumbnailsize-thumbnailwp-post-image"alt=""srcset="http://talhacelik.com.tr/wp-content/uploads/2020/04/icon-150x150.jpeg150w,http://talhacelik.com.tr/wp-content/uploads/2020/04/icon-300x300.jpeg300w,http://talhacelik.com.tr/wp-content/uploads/2020/04/icon.jpeg500w"sizes="(max-width:150px)100vw,150px"/></a>
+				</div><h4class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2020/04/23/multiple-file-cryptographer/"title="PermalinktoMultipleFileCryptographer"rel="bookmark">MultipleFileCryptographer</a></h4><divclass="entry-meta"><spanclass="entry-author">By<aitemprop="name"href="http://talhacelik.com.tr/index.php/author/tlhcelik/">TalhaÇelik</a></span></div></article><articleclass="entry"><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"class="entry-thumb"title="Permalinkto:&quot;TrivelyanHerokuAppManagementDashboard&quot;"><imgwidth="150"height="150"src="http://talhacelik.com.tr/wp-content/uploads/2019/05/trivelyan-logo-e1558008450126.png"class="attachment-thumbnailsize-thumbnailwp-post-image"alt=""/></a>
+				</div><h4class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2019/05/16/trivelyan-heroku-app-management-dashboard/"title="PermalinktoTrivelyanHerokuAppManagementDashboard"rel="bookmark">TrivelyanHerokuAppManagementDashboard</a></h4><divclass="entry-meta"><spanclass="entry-author">By<aitemprop="name"href="http://talhacelik.com.tr/index.php/author/tlhcelik/">TalhaÇelik</a></span></div></article><articleclass="entry"><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"class="entry-thumb"title="Permalinkto:&quot;C++PlotLibrary(MPlotlib)withBitmap&quot;"><imgwidth="150"height="150"src="http://talhacelik.com.tr/wp-content/uploads/2018/07/plotting-150x150.jpg"class="attachment-thumbnailsize-thumbnailwp-post-image"alt=""/></a>
+				</div><h4class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/07/04/c-plotting-library-mplotlib/"title="PermalinktoC++PlotLibrary(MPlotlib)withBitmap"rel="bookmark">C++PlotLibrary(MPlotlib)withBitmap</a></h4><divclass="entry-meta"><spanclass="entry-author">By<aitemprop="name"href="http://talhacelik.com.tr/index.php/author/tlhcelik/">TalhaÇelik</a></span></div></article><articleclass="entry"><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"class="entry-thumb"title="Permalinkto:&quot;MPIFunctions(MPI_Send&#038;MPI_Recv)&quot;"><imgwidth="150"height="150"src="http://talhacelik.com.tr/wp-content/uploads/2018/04/MPIlogo2-150x150.gif"class="attachment-thumbnailsize-thumbnailwp-post-image"alt=""/></a>
+				</div><h4class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/05/02/mpi-functions-mpi_send-mpi_recv/"title="PermalinktoMPIFunctions(MPI_Send&#038;MPI_Recv)"rel="bookmark">MPIFunctions(MPI_Send&#038;MPI_Recv)</a></h4><divclass="entry-meta"><spanclass="entry-author">By<aitemprop="name"href="http://talhacelik.com.tr/index.php/author/tlhcelik/">TalhaÇelik</a></span></div></article><articleclass="entry"><divclass="entry-media">
+					<ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"class="entry-thumb"title="Permalinkto:&quot;WindowsPowerShellScripting&quot;"><imgwidth="150"height="150"src="http://talhacelik.com.tr/wp-content/uploads/2018/04/ps5-150x150.jpg"class="attachment-thumbnailsize-thumbnailwp-post-image"alt=""/></a>
+				</div><h4class="entry-title"><ahref="http://talhacelik.com.tr/index.php/2018/04/26/windows-powershell-scripting/"title="PermalinktoWindowsPowerShellScripting"rel="bookmark">WindowsPowerShellScripting</a></h4><divclass="entry-meta"><spanclass="entry-author">By<aitemprop="name"href="http://talhacelik.com.tr/index.php/author/tlhcelik/">TalhaÇelik</a></span></div></article></div></aside><asideid="text-3"class="widgetwidget_text"><h6class="widget-title"><span>WhytheLuckyStiff</span></h6>			<divclass="textwidget"><p>Whenyoudon’tcreatethings,youbecomedefinedbyyourtastesratherthan<br/>
+ability.Yourtastesonlynarrow&amp;excludepeople.Socreate.</p>
+</div>
+		</aside>				</div>
+							</div>
+		</div>
+	</section>
+	
+<footerid="site-footer"class="site-footer">
+		<divclass="site-footer-bottom">
+		<divclass="site-containertext-center">
+			Allpostsiswrittenby@tlhcelik.Readandstudyisafree.
+			<ahref="http://www.talhacelik.com.tr/"traget="_blank">@tlhcelik</a>
+
+			
+		</div>
+	</div>
+	
+</footer><!--/footer-->
+</div><!--/wrapper-->
+<divclass="site-navigation-overlay"></div>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/pace.min.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/modernizr.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/cssua.min.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/slick.min.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/jquery.fitvids.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/jquery.scrollUp.min.js?ver=1.0.0'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-content/themes/writee/assets/js/main.js?ver%5B0%5D=jquery'></script>
+<scripttype='text/javascript'src='http://talhacelik.com.tr/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+</body>
+</html>

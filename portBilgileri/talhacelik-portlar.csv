@@ -1,0 +1,17 @@
+,PORT,STATE,SERVICE
+0,21/tcp,open,ftp
+1,53/tcp,closed,domain
+2,80/tcp,open,http
+3,110/tcp,open,pop3
+4,143/tcp,open,imap
+5,443/tcp,open,https
+6,465/tcp,open,smtps
+7,587/tcp,open,submission
+8,993/tcp,open,imaps
+9,995/tcp,open,pop3s
+10,49152/tcp,closed,unknown
+11,49153/tcp,closed,unknown
+12,49154/tcp,closed,unknown
+13,49155/tcp,closed,unknown
+14,49156/tcp,closed,unknown
+15,49157/tcp,closed,unknown
